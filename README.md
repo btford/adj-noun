@@ -26,6 +26,17 @@ for (var i = 0; i < 10; i++) {
   // generate and log pairs
   console.log(adjNoun().join('-'));
 }
+// console.logs ->
+//   lasting-meaning
+//   numerical-excerpt
+//   unresponsive-madman
+//   royal-haircut
+//   squeaky-schedule
+//   respectable-compressor
+//   northern-knife
+//   shrewd-tribute
+//   blank-volcano
+//   rhenish-periodical
 
 // after you start generating pairs, you cannot change the seed or primes
 // otherwise you might end up with non-unique pairs
