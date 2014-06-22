@@ -1,0 +1,27 @@
+{
+  "name": "adj-noun",
+  "version": "0.0.0",
+  "description": "Gives you a random adj-noun pair that you can use as a unique identifier",
+  "main": "adj-noun.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btford/adj-noun.git"
+  },
+  "keywords": [
+    "identifier",
+    "unique",
+    "english",
+    "slug",
+    "adjective",
+    "noun"
+  ],
+  "author": "Brian Ford <btford@umich.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btford/adj-noun/issues"
+  },
+  "homepage": "https://github.com/btford/adj-noun"
+}
