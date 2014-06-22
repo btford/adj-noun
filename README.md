@@ -1,4 +1,4 @@
-# adj-noun
+# adj-noun [![Build Status](https://travis-ci.org/btford/adj-noun.svg?branch=master)](https://travis-ci.org/btford/adj-noun)
 
 Gives you a random adj-noun pair that you can use as a unique identifier.
 Great for generating readable URLs.
