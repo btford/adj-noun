@@ -44,6 +44,24 @@ adjNoun.seed(456);
 // -> false
 ```
 
+## CLI
+
+Install it globally:
+
+```shell
+$ npm install -g
+```
+
+Then you can:
+
+```shell
+$ adj-noun
+royal-haircut
+```
+
+It randomly seeds between runs with `Math.random()`.
+
+
 ## Word list
 
 The script for generating the word list uses [NLTK](http://www.nltk.org/).
