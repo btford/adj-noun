@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "bin": {
+    "adj-noun": "cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/btford/adj-noun.git"
