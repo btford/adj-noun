@@ -59,6 +59,17 @@ $ adj-noun
 royal-haircut
 ```
 
+You can also specify the number of unique names to generate:
+
+```shell
+$ adj-noun 5
+unlined octet
+luckier gospel
+wordy shading
+slothful groomsmen
+devotional newsletter
+```
+
 It randomly seeds between runs with `Math.random()`.
 
 
