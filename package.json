@@ -1,6 +1,6 @@
 {
   "name": "adj-noun",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gives you a random adj-noun pair that you can use as a unique identifier",
   "main": "adj-noun.js",
   "scripts": {
