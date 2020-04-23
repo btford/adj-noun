@@ -49,7 +49,7 @@ adjNoun.seed(456);
 Install it globally:
 
 ```shell
-$ npm install -g
+$ npm install -g adj-noun
 ```
 
 Then you can:
